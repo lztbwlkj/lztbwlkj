@@ -2,7 +2,7 @@
 
 ### 你好，程序员 👋
 
-- :orange_book: Focus on swift, objc and uniapp development, occasionally write dart
+- :orange_book: Focus on swift, objc and uniapp development
 - :hammer: Creator of applications and frameworks
 - :ram: [Book lovers](https://www.jianshu.com/u/e255db141a4a)
 - :meat_on_bone: Vegetarians
